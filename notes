@@ -1,0 +1,5 @@
+git branch -M main(#convert master to main)
+git add . (add all files)
+git commit -m "User define" (commit above files)
+git remote add origin https://github.com/your-git-acc/your-repo.git (mentioning git address)
+git push origin main (integrating local to github)
